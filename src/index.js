@@ -139,7 +139,7 @@ class Game extends React.Component {
 // ========================================
 
 ReactDOM.render(
-    <Game />,
+   // <Game />,
     document.getElementById('root')
 );
 
